@@ -1,14 +1,14 @@
 # youtube_videos
 
-React app to search and play YouTube videos
+React app to search and play YouTube videos. The app will show five videos as a search result and user may play those videos.
 
 ## Clone the project using Git
 
-> git clone https://github.com/teurajarvi/pics-v1.git
+> git clone https://github.com/teurajarvi/youtube_videos.git
 
 ## Install and run the project
 
-> cd pics-v1
+> cd youtube_videos
 
 > npm install
 
