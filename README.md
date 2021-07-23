@@ -2,6 +2,8 @@
 
 React app to search and play YouTube videos. The app will show five videos as a search result and user may play those videos.
 
+To see the outcome please visit: https://youtube-videos-xi.vercel.app/
+
 ## Clone the project using Git
 
 > git clone https://github.com/teurajarvi/youtube_videos.git
